@@ -7,8 +7,8 @@
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 ### Our Work's
-- 🤓 Website Devolopment 
-- 📚  Block Chain Service's
+- 🤓 Website Devolopment ,Mobile App development and Designing
+- 📚  BlockChain As A Service
 - 💪🏼 Future Goals: Learn more technologies - Providing BlockChain Service's
 
 ### Find Us Here :raising_hand_man:
