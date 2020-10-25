@@ -17,4 +17,4 @@
  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="26">](https://github.com/coinskite)
  
  
-<img src="https://github-readme-stats.vercel.app/api?username=coinskite&count_private=true&show_icons=true" height="170px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coinskite&layout=compact" height="170px">
+<img src="https://github-readme-stats.vercel.app/api?username=coinskite&count_private=true&show_icons=true" height="170px">
