@@ -9,7 +9,6 @@
 ### Our Work's
 - 🤓 Website Devolopment ,Mobile App development and Designing
 - 📚  BlockChain As A Service
-- 💪🏼 Future Goals: Learn more technologies - Providing BlockChain Service's
 
 ### Find Us Here :raising_hand_man:
 
